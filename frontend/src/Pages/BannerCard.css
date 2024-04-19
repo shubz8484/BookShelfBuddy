@@ -1,0 +1,46 @@
+.banner .swiper {
+    width: 240px;
+    height: 320px;
+    /* object-fit: cover; */
+  }
+  
+  .banner .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+    object-fit: cover;
+  }
+  
+  .banner .swiper-slide:nth-child(1n) {
+    background-image: url('D:\Desktop\cleancode\BookShelfBuddy\frontend\src\assets\BannerBooks\img1.jpg');
+  }
+  
+  .banner .swiper-slide:nth-child(2n) {
+    background-image: url('D:\Desktop\cleancode\BookShelfBuddy\frontend\src\assets\BannerBooks\img3.jpg');
+  }
+  
+ .banner .swiper-slide:nth-child(3n) {
+    background-image: url('D:\Desktop\cleancode\BookShelfBuddy\frontend\src\assets\BannerBooks\img5.jpg');
+  }
+  
+  .banner .swiper-slide:nth-child(4n) {
+    background-image: url('D:\Desktop\cleancode\BookShelfBuddy\frontend\src\assets\BannerBooks\img6.jpg');
+  }
+  
+  .banner .swiper-slide:nth-child(5n) {
+    background-image: url('D:\Desktop\cleancode\BookShelfBuddy\frontend\src\assets\BannerBooks\img7.jpg');
+  }
+  
+ .banner.swiper-slide:nth-child(6n) {
+    background-image: url('D:\Desktop\cleancode\BookShelfBuddy\frontend\src\assets\BannerBooks\img8.jpg');
+  }
+  
+ .banner .swiper-slide:nth-child(7n) {
+    background-image: url('D:\Desktop\cleancode\BookShelfBuddy\frontend\src\assets\BannerBooks\img9.jpg');
+  }
+  
+ 
